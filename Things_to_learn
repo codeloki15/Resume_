@@ -1,0 +1,221 @@
+Blocking non-blocking async-synchronous
+
+• Multithreading Concurrency vs. Parallelism
+
+• Multithreading Multiprocessing Concurrency
+
+• Multithreading real-time data aggregation
+
+• Multithreading while working with AWS Sagemaker
+
+• Buffer protocol
+
+• Classes objects inheritance oop
+
+• Collections Module
+
+• Context Managers
+
+• Data Serialization in Python
+
+• Decorators in Python MASTER
+
+• Deep Copy vs Shallow Copy
+
+• Dependency Injection
+
+• Descriptors
+
+• Descriptor Protocol
+
+• Dictionary-Values-Hash-Usages
+
+• Dynamic Code Execution eval
+
+• Error & Exception Handling
+
+• Event-driven programming with Asyncio
+
+• File Handling I-O
+
+• Functional programming
+
+• Functional programming initializer in reduce method
+
+• Function Annotations
+
+• Function Overloading
+
+• Functools module
+
+• Generator Expressions and Coroutines
+
+• init method
+
+• Iterables vs iterators
+
+• logging module
+
+• Meta classes
+
+• Method resolution order C3 Linearization
+
+• Monkey Patching
+
+• Monkey PatchingPerformance Enhancements
+
+• Overloading arithmetic operators
+
+• Pythons C-API
+
+• Reference counting and garbage collection
+
+• Slots in Python Classes
+
+• Struct module
+
+• args and kwargs
+
+• Bool `all` and `any` - vacuous-principle `truthy` `falsey`
+
+• caching decorator
+
+• Chained comparison
+
+• Class Lebel Attribute
+
+• Closures late-binding-behaviour
+
+• Closures capture variables by reference and not by value
+
+• concurrent modification Modifying while iterating
+
+• Decorator built ins Class Attribute with property decorators
+
+• Default-Arguments-Mutation-evaluated only once
+
+• Default arguments are evaluated only once
+
+• definition of identity
+
+• Double-Equal Operator in Python 1
+
+• Double-equal Operator in Python 2
+
+• Double-equal Operator in Python 3
+
+• Double underscore dunder method
+
+• Double underscore prefix name mangling
+
+• Ellipsis
+
+• Empty-Array Vacuous truth in logic
+
+• Equality vs. identity-bool special method
+
+• Equality vs. Identity Integer Interning
+
+• Error exception handling
+
+• garbage collection-forced ctypes
+
+• Generator expression with "any" condition
+
+• Generator Function with Yield Statement
+
+• "globals" keyword
+
+• Hashable in Python
+
+• implied empty string replace
+
+• Inheritance class attributes
+
+• Instance attribute vs. class attribute
+
+• "is-not" Operator
+
+• lambda-decorator and setattr
+
+• lambda Function Nesting
+
+• list multiplication and its speciality
+
+• List of Falsy Truthy Values
+
+• Logical or Priority of execution
+
+• Logical or vs logical and in Python
+
+• Memory Management in Python
+
+• Memory reference by Variable
+
+• Memory reference Mutable-Immutable Objects
+
+• Mutable and immutable data types and how del keyword works
+
+• Mutable and Immutable Reference for chained-assignment  operator
+
+• How None and False are different objects
+
+• non-local keyword and inner function
+
+• Optimal way to modify a list in place
+
+• Optimal way to raise a number to power
+
+• Pass by Value vs Reference logical - "or" & "and" operator
+
+• round-method-bankers rounding
+
+• Scope and Namespaces
+
+• Slice Notation Tricky
+
+• Tricky Ternary operator
+
+• truthiness all-any-usages
+
+• Truthiness and "all" Condition
+
+• XOR Tricky Use case
+
+• __index__ special method
+
+• Bridge Design Pattern
+
+• Mediator Design pattern
+
+• Prototype Design Pattern
+
+• Abstract factory Design Pattern
+
+• Builder pattern
+
+• Chain of Responsibility
+
+• Command Pattern
+
+• Facade pattern
+
+• Flyweight pattern
+
+• Object pool
+
+• Observer pattern
+
+• Adapter Pattern
+
+• Factory method
+
+• Proxy Pattern
+
+• Singleton pattern
+
+• State Pattern
+
+• Strategy Pattern
+
+• Template Pattern
